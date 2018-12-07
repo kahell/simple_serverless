@@ -1,0 +1,10 @@
+{
+    "name": "simple_serverless",
+    "dependencies": {
+        "aws-sdk": "^2.360.0",
+        "uuid": "^3.3.2"
+    },
+    "devDependencies": {
+        "serverless-offline": "^3.31.3"
+    }
+}
